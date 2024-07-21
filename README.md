@@ -1,12 +1,12 @@
 # Access Requests for Private Repository
 This repository is for requesting access to my private repositories. 
 
-# Available Private Repositories
+## Available Private Repositories
 
 1. **AutonomousMobileRobots**
    - Description: Labs, problem sets, and final project for Autonomous Mobile Robots course at Cornell University (MAE5180)
 
-# Requesting Access
+## Requesting Access
 If you would like access, please open a new issue with your request, and include the following information:
 
 - Your GitHub username
